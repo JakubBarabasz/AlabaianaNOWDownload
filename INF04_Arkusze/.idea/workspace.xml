@@ -13,7 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a92ab66b-5569-43a7-b9f2-dec568ef3184" name="Default Changelist" comment="add INF.04-01-21.06-SG">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLite01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite01/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Arkusz INF.04-01-21.06-SG" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Arkusz_z_informatora" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
@@ -132,6 +133,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add INF.04-01-21.06-SG" />
